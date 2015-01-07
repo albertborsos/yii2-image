@@ -10,7 +10,7 @@ Installation
 {
 	"require": 
 	{
-  		"yurkinx/yii2-image": "dev-master"
+  		"albertborsos/yii2-image": "dev-master"
 	}
 }
 ```
